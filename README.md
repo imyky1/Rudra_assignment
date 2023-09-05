@@ -18,6 +18,6 @@ nodemon app.js
  ```
    Mongo is connected
    ```
-6. use Postman or HoppsScotch to test all the API's
+6. use Postman or Hoppscotch to test all the API's
 
 
