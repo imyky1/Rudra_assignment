@@ -19,7 +19,7 @@ REST API using NodeJS with the following features
 4. Replcae <YOUR_DB_URL>, <YOUR_JWT_SECRET>, <STMP_EMAIL> , <SMTP_KEY> with your credentials 
 5. Run this command
 ```
-npm init
+npm install
 ```
 ```
 nodemon app.js
